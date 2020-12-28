@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "354a356e-13b8-4194-9b6b-8875e879f5a9",
+    "name": "skup",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ae2e3565-5b92-3807-a6b3-5e00ef1a2649",
+    "name": "Csonti",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "804b50f6-d7a8-322d-93bb-96b3a1931784",
+    "name": "Benya",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
