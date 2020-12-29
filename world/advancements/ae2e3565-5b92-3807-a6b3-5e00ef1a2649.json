@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-12-29 03:10:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-25 01:29:36 +0100"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-12-29 03:10:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-24 23:28:47 +0100"
@@ -582,6 +594,7 @@
       "minecraft:skeleton": "2020-12-25 02:07:10 +0100",
       "minecraft:ghast": "2020-12-25 23:25:50 +0100",
       "minecraft:hoglin": "2020-12-25 23:36:44 +0100",
+      "minecraft:guardian": "2020-12-29 01:35:23 +0100",
       "minecraft:magma_cube": "2020-12-25 23:18:23 +0100",
       "minecraft:spider": "2020-12-24 23:31:15 +0100",
       "minecraft:creeper": "2020-12-25 00:06:10 +0100",
@@ -751,6 +764,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-12-25 00:43:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-12-29 02:50:47 +0100"
     },
     "done": true
   },
@@ -976,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-12-29 02:05:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2020-12-27 02:44:23 +0100"
@@ -1120,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-29 02:05:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-12-25 23:27:06 +0100"
@@ -1203,14 +1234,18 @@
       "minecraft:snowy_mountains": "2020-12-24 22:00:51 +0100",
       "minecraft:mountains": "2020-12-24 23:27:31 +0100",
       "minecraft:forest": "2020-12-26 00:01:21 +0100",
+      "minecraft:taiga": "2020-12-29 02:57:24 +0100",
       "minecraft:snowy_tundra": "2020-12-24 21:45:23 +0100",
       "minecraft:frozen_river": "2020-12-24 22:09:06 +0100",
+      "minecraft:birch_forest": "2020-12-29 01:17:33 +0100",
       "minecraft:beach": "2020-12-26 22:41:01 +0100",
       "minecraft:dark_forest": "2020-12-26 22:35:53 +0100",
       "minecraft:river": "2020-12-24 22:10:25 +0100",
       "minecraft:snowy_taiga": "2020-12-24 21:45:37 +0100",
+      "minecraft:birch_forest_hills": "2020-12-29 01:17:36 +0100",
       "minecraft:wooded_mountains": "2020-12-24 23:30:41 +0100",
       "minecraft:wooded_hills": "2020-12-26 00:00:53 +0100",
+      "minecraft:swamp": "2020-12-29 01:10:38 +0100",
       "minecraft:snowy_taiga_hills": "2020-12-24 21:47:40 +0100",
       "minecraft:plains": "2020-12-24 21:45:10 +0100"
     },
@@ -1369,6 +1404,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-29 02:05:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-12-25 22:17:23 +0100"
@@ -1483,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-12-29 00:48:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-12-25 00:01:15 +0100"
@@ -1510,6 +1557,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-12-26 01:55:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-29 02:05:11 +0100"
     },
     "done": true
   },
@@ -1654,6 +1707,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-12-28 02:53:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-12-29 01:05:54 +0100"
     },
     "done": true
   },
@@ -2040,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-12-29 01:05:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-12-24 23:41:04 +0100"
@@ -2121,6 +2186,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-25 00:08:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-29 03:46:07 +0100"
     },
     "done": true
   },
@@ -2553,6 +2624,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-12-25 23:15:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-12-29 03:10:47 +0100"
     },
     "done": true
   },

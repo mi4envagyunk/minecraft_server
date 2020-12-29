@@ -1,40 +1,362 @@
-[23:44:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:44:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:44:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:44:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:44:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:44:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:44:07] [main/INFO]: Reloading ResourceManager: Default
-[23:44:08] [Worker-Main-8/INFO]: Loaded 7 recipes
-[23:44:08] [Worker-Main-8/INFO]: Loaded 927 advancements
-[23:44:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[23:44:09] [Server thread/INFO]: Loading properties
-[23:44:09] [Server thread/INFO]: Default game type: SURVIVAL
-[23:44:09] [Server thread/INFO]: Generating keypair
-[23:44:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:44:09] [Server thread/INFO]: Using default channel type
-[23:44:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:44:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:44:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:44:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:44:11] [Server thread/INFO]: Preparing level "world"
-[23:44:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:44:12] [Server thread/INFO]: Preparing spawn area: 0%
-[23:44:12] [Server thread/INFO]: Preparing spawn area: 0%
-[23:44:12] [Server thread/INFO]: Preparing spawn area: 0%
-[23:44:13] [Server thread/INFO]: Preparing spawn area: 0%
-[23:44:14] [Server thread/INFO]: Time elapsed: 2644 ms
-[23:44:14] [Server thread/INFO]: Done (2.772s)! For help, type "help"
-[23:44:28] [Server thread/INFO]: Stopping the server
-[23:44:28] [Server thread/INFO]: Stopping server
-[23:44:28] [Server thread/INFO]: Saving players
-[23:44:28] [Server thread/INFO]: Saving worlds
-[23:44:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:44:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:44:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:11:03] [Server thread/INFO]: Made Skupnum a server operator
+[00:11:10] [Server thread/INFO]: [Skupnum: Set own game mode to Creative Mode]
+[00:18:38] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.2657122407955512
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.34418380507727875
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.44554181341572985
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.5163181195830475
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.34780314983905214
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.42214295092287557
+[00:21:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.375
+[00:21:47] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[00:21:47] [Server thread/INFO]: Skupnum left the game
+[00:21:56] [Server thread/INFO]: Skupnum[/89.133.105.59:49963] logged in with entity id 6307 at (253.39812810962948, 115.97302330929777, 232.9088556015706)
+[00:21:56] [Server thread/INFO]: Skupnum joined the game
+[00:34:31] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/9400, l='ServerLevel[world]', x=117.60, y=72.00, z=367.09]
+[00:37:00] [Server thread/INFO]: Kole lost connection: Disconnected
+[00:37:00] [Server thread/INFO]: Kole left the game
+[00:37:04] [Server thread/INFO]: Csonti lost connection: Disconnected
+[00:37:04] [Server thread/INFO]: Csonti left the game
+[00:37:06] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[00:37:06] [Server thread/INFO]: Skupnum left the game
+[00:37:11] [Server thread/INFO]: Skupnum[/89.133.105.59:50066] logged in with entity id 9919 at (235.26466658406216, 119.73591281131357, 277.4093576853092)
+[00:37:11] [Server thread/INFO]: Skupnum joined the game
+[00:37:23] [Server thread/INFO]: Csonti[/127.0.0.1:54996] logged in with entity id 10010 at (204.92695479911495, 69.0, 355.9116307099335)
+[00:37:23] [Server thread/INFO]: Csonti joined the game
+[00:37:26] [Server thread/INFO]: Kole[/62.165.200.245:62593] logged in with entity id 10038 at (202.44508253687266, 73.0, 356.7061016603034)
+[00:37:26] [Server thread/INFO]: Kole joined the game
+[00:39:03] [Server thread/INFO]: [Skupnum: Set own game mode to Survival Mode]
+[00:39:19] [Server thread/INFO]: [Skupnum: Made Skupnum no longer a server operator]
+[00:39:24] [Server thread/INFO]: Skupnum fell from a high place
+[00:40:31] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.5166804502875095
+[00:40:32] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.37576209996464627
+[00:40:33] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3644669569177097
+[00:41:51] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.3807358487563306
+[00:42:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11068, l='ServerLevel[world]', x=114.60, y=72.00, z=364.80]
+[00:42:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11068, l='ServerLevel[world]', x=114.60, y=72.00, z=364.80]
+[00:42:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11068, l='ServerLevel[world]', x=114.60, y=72.00, z=364.80]
+[00:43:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11202, l='ServerLevel[world]', x=113.20, y=72.00, z=360.24]
+[00:43:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11202, l='ServerLevel[world]', x=113.20, y=72.00, z=360.24]
+[00:43:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11202, l='ServerLevel[world]', x=113.20, y=72.00, z=360.24]
+[00:44:19] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.49554180860570796
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.336515498996107
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3182609429416061
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.27278172088824704
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.748427223977103
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 1.258186571621593
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 1.555148132954855
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 1.842451600216691
+[00:44:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 2.6202619474768767
+[00:45:24] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.47406844701632167
+[00:45:26] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.25533623577865683
+[00:45:26] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.4393310307196998
+[00:45:27] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2591479444619722
+[00:45:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11601, l='ServerLevel[world]', x=111.89, y=72.00, z=365.41]
+[00:45:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11601, l='ServerLevel[world]', x=111.89, y=72.00, z=365.41]
+[00:45:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11601, l='ServerLevel[world]', x=111.89, y=72.00, z=365.41]
+[00:46:03] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.5
+[00:46:04] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.2564288851974652
+[00:46:50] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.2742753628950254
+[00:47:07] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3080857141841591
+[00:52:55] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.2995027113502289
+[00:53:46] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.37404703409413287
+[00:53:46] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.7871760348439238
+[00:54:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.2533998992202271
+[00:54:58] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.4133594903285598
+[00:55:49] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.381892212612172
+[00:56:48] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.40656025684279484
+[00:57:14] [Server thread/INFO]: Skupnum has made the advancement [Who is Cutting Onions?]
+[00:58:06] [Server thread/INFO]: Skupnum has made the advancement [Ice Bucket Challenge]
+[01:01:07] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3657640802111928
+[01:01:09] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.3265856897269259
+[01:01:43] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.32935083377492447
+[01:04:23] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.38696944377988984
+[01:06:16] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3104605644834919
+[01:06:51] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.31726724670124895
+[01:06:52] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.27704971012144597
+[01:06:55] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.3055578925439022
+[01:06:55] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.796809480011234
+[01:08:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! 10.169622912120303,-1.0,-0.24721061895797902
+[01:08:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! 10.741798332968074,-1.0,-0.4202271196938909
+[01:08:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! 11.308009658670017,-1.0,-0.6125739752267236
+[01:08:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! 11.869428930108825,-1.0,-0.8193404924577408
+[01:11:17] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.2527289314547261
+[01:13:17] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.27347721859746343
+[01:13:17] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.4953427000071997
+[01:13:17] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.5074237390705321
+[01:13:17] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.5089195687941128
+[01:13:17] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.41351750658498077
+[01:13:35] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.2525395505499546
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! -7.549353988067423,0.0,-6.564898601907771
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! -7.752218964712938,0.0,-7.128480694965674
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! -7.954879508280214,0.0,-7.692194437762282
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! -8.156751738460912,0.0,-8.256221359703886
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved too quickly! -8.357497433231856,0.0,-8.820665732362613
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 1.212094045511094
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 1.7860915516575915
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 2.3679015826833165
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 2.9550068554340214
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 3.5449455064563153
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 4.136400241700358
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 4.728666203383909
+[01:13:45] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 5.321366236160884
+[01:15:47] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.2783041975008018
+[01:16:10] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.36751859470268755
+[01:17:32] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.26174039140505556
+[01:17:32] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.7543307812906619
+[01:17:32] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 1.2500259522558395
+[01:17:32] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 1.7473824296740759
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved too quickly! -2.831302530362393,0.0,-9.712261871889496
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved too quickly! -3.0550100551940886,-0.07683200149536162,-10.23702130845004
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved too quickly! -3.185162102494985,-0.2274534586630068,-10.54231859166839
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved too quickly! -3.311682312633309,-0.4489423104376016,-10.839091687978453
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved too quickly! -3.4349636502967087,-0.7384922093173572,-11.128262914184688
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2629140153026128
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2629140153026128
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2629140153026128
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2629140153026128
+[01:18:45] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2629140153026128
+[01:21:45] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.43413174829692025
+[01:22:40] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.48420823192782336
+[01:23:07] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.357514731239462
+[01:23:22] [Server thread/WARN]: Hunor (vehicle of Swithee) moved wrongly! 0.27758697995676584
+[01:26:09] [Server thread/INFO]: Csonti lost connection: Disconnected
+[01:26:09] [Server thread/INFO]: Csonti left the game
+[01:26:10] [Server thread/INFO]: Csonti[/127.0.0.1:55606] logged in with entity id 26433 at (-446.52053596360366, 69.8500000178814, -2825.2852114730226)
+[01:26:10] [Server thread/INFO]: Csonti joined the game
+[01:33:47] [Server thread/INFO]: Swithee was killed by Guardian using magic
+[01:35:09] [Server thread/INFO]: Swithee was slain by Guardian
+[01:36:22] [Server thread/INFO]: Csonti lost connection: Disconnected
+[01:36:22] [Server thread/INFO]: Csonti left the game
+[01:37:11] [Server thread/INFO]: Swithee lost connection: Disconnected
+[01:37:11] [Server thread/INFO]: Swithee left the game
+[01:44:04] [Server thread/INFO]: Csonti[/127.0.0.1:55735] logged in with entity id 28597 at (-367.30000001192093, 57.28322275739825, -2833.6226605015336)
+[01:44:04] [Server thread/INFO]: Csonti joined the game
+[01:48:19] [Server thread/INFO]: Kole lost connection: Disconnected
+[01:48:19] [Server thread/INFO]: Kole left the game
+[01:48:52] [Server thread/INFO]: Kole[/62.165.200.245:62663] logged in with entity id 28982 at (-367.69999998807907, 54.06157827128371, -2833.699999988079)
+[01:48:52] [Server thread/INFO]: Kole joined the game
+[01:51:28] [Server thread/INFO]: Kole lost connection: Disconnected
+[01:51:28] [Server thread/INFO]: Kole left the game
+[01:51:30] [Server thread/INFO]: Kole[/62.165.200.245:62667] logged in with entity id 29181 at (-367.3251497414272, 54.0, -2833.3013787600576)
+[01:51:30] [Server thread/INFO]: Kole joined the game
+[01:51:36] [Server thread/INFO]: Kole lost connection: Disconnected
+[01:51:36] [Server thread/INFO]: Kole left the game
+[01:51:38] [Server thread/INFO]: Kole[/62.165.200.245:62670] logged in with entity id 29187 at (-367.30000001192093, 54.0, -2833.327638310431)
+[01:51:38] [Server thread/INFO]: Kole joined the game
+[01:51:42] [Server thread/INFO]: Kole lost connection: Disconnected
+[01:51:42] [Server thread/INFO]: Kole left the game
+[01:51:44] [Server thread/INFO]: Kole[/62.165.200.245:62673] logged in with entity id 29194 at (-367.69999998807907, 54.0, -2833.4868752302245)
+[01:51:44] [Server thread/INFO]: Kole joined the game
+[02:06:30] [Server thread/INFO]: Csonti was slain by Guardian
+[02:07:58] [Server thread/INFO]: Kole lost connection: Disconnected
+[02:07:58] [Server thread/INFO]: Kole left the game
+[02:08:27] [Server thread/INFO]: Kole[/62.165.200.245:62775] logged in with entity id 30690 at (-451.6412372449877, 72.0, -2815.487455772807)
+[02:08:27] [Server thread/INFO]: Kole joined the game
+[02:13:43] [Server thread/INFO]: Skupnum was killed by Guardian using magic
+[02:15:01] [Server thread/INFO]: Kole has made the advancement [Who is Cutting Onions?]
+[02:16:02] [Server thread/INFO]: Kole has made the advancement [Ice Bucket Challenge]
+[02:20:06] [Server thread/INFO]: Csonti was killed by Guardian using magic
+[02:28:57] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[02:28:57] [Server thread/INFO]: Skupnum left the game
+[02:38:27] [Server thread/INFO]: Kole lost connection: Disconnected
+[02:38:27] [Server thread/INFO]: Kole left the game
+[02:38:32] [Server thread/INFO]: Csonti lost connection: Disconnected
+[02:38:32] [Server thread/INFO]: Csonti left the game
+[02:39:57] [Server thread/INFO]: Kole[/62.165.200.245:62898] logged in with entity id 33631 at (-358.4887793850631, 44.0, -2847.290914389632)
+[02:39:57] [Server thread/INFO]: Kole joined the game
+[02:40:07] [Server thread/INFO]: Csonti[/127.0.0.1:56143] logged in with entity id 33853 at (-359.43651243781386, 44.0, -2846.512499988079)
+[02:40:07] [Server thread/INFO]: Csonti joined the game
+[02:46:34] [Server thread/INFO]: Skupnum[/89.133.105.59:50469] logged in with entity id 34649 at (-363.30000001192093, 44.0, -2819.512499988079)
+[02:46:34] [Server thread/INFO]: Skupnum joined the game
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.2715657424841993
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.49321399770360586
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5122334520594904
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5225764512806563
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5259190772685542
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.519549730469862
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5143867634940307
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4551489757664058
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.44426498617258403
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4846654903660692
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5063553594093264
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5173286913470747
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5222533148491948
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.524676793315848
+[02:55:56] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5248203703083618
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.48071429155857004
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4546194204699532
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.43592041877286647
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.42326485303965455
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4164931121404152
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.42880252400937025
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4764641998992829
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5019670123965625
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5114833985387577
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.49672841550636804
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.3948528060618628
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.32316036455313224
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.28115386179911184
+[02:55:57] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.25867701969491463
+[02:56:03] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.3032860786834135
+[02:56:12] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.49391693751181265
+[02:56:13] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.387989755848821
+[02:56:32] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.30123550066878124
+[02:56:32] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.265764868324311
+[02:57:21] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.45190325980644275
+[02:57:29] [Server thread/WARN]: Horse (vehicle of Csonti) moved wrongly! 0.3029002661544382
+[02:57:32] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2758882256275683
+[02:59:11] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[02:59:11] [Server thread/INFO]: Skupnum left the game
+[02:59:12] [Server thread/INFO]: Kole lost connection: Disconnected
+[02:59:12] [Server thread/INFO]: Kole left the game
+[02:59:15] [Server thread/INFO]: Kole[/62.165.200.245:62960] logged in with entity id 39272 at (-273.74886379277257, 70.0, -1494.7676680757663)
+[02:59:15] [Server thread/INFO]: Kole joined the game
+[02:59:17] [Server thread/INFO]: Skupnum[/89.133.105.59:50494] logged in with entity id 39275 at (-47.69824218749999, 77.8500000178814, -1076.0164233194487)
+[02:59:17] [Server thread/INFO]: Skupnum joined the game
+[02:59:25] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.25371635865690223
+[03:05:09] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.2881316776796865
+[03:08:17] [Server thread/WARN]: Horse (vehicle of Kole) moved wrongly! 0.28972004978289334
+[03:10:47] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.39204734564141575
+[03:10:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.2893877652998989
+[03:10:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.49827681875605406
+[03:10:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5165958704153034
+[03:10:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5291436900072043
+[03:10:48] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5365845014365228
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5407644757921406
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5430564692007762
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.544303403219883
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.544610584254804
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.544824751753636
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5451854685966514
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5454351878471873
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5455750275610937
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.54565163229644
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.545690003652674
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457129143656877
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457258544596042
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457329734159492
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457368384471248
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457389225295818
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457400422561306
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.545740642709499
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457409643752119
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457411365994972
+[03:10:49] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5457412287840183
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.8586301903872402
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.4848084983876578
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.6860782588283676
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.6208328248805091
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5859212940287302
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5672408299308078
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5572452860403122
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.551896869794134
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5490350388967352
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.547503730242284
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5466843575122928
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5462459275010026
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5443920863518391
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5196430885858211
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5173336056467613
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.524904749739278
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5310048688841391
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.53772450789522
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5396758916704063
+[03:10:50] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5410889688179329
+[03:10:51] [Server thread/WARN]: Kincsem (vehicle of Skupnum) moved wrongly! 0.5428526221653728
+[03:12:22] [Server thread/INFO]: Kole lost connection: Disconnected
+[03:12:22] [Server thread/INFO]: Kole left the game
+[03:12:32] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[03:12:32] [Server thread/INFO]: Skupnum left the game
+[03:12:36] [Server thread/INFO]: Skupnum[/89.133.105.59:50564] logged in with entity id 45268 at (117.96158177673341, 72.0, 356.9026003190809)
+[03:12:36] [Server thread/INFO]: Skupnum joined the game
+[03:12:37] [Server thread/INFO]: Kole[/62.165.200.245:62984] logged in with entity id 45299 at (190.68358697480733, 75.0, -271.3153760708038)
+[03:12:37] [Server thread/INFO]: Kole joined the game
+[03:14:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46010, l='ServerLevel[world]', x=112.64, y=72.00, z=360.20]
+[03:14:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46010, l='ServerLevel[world]', x=112.64, y=72.00, z=360.20]
+[03:18:11] [Server thread/INFO]: Kole lost connection: Disconnected
+[03:18:11] [Server thread/INFO]: Kole left the game
+[03:19:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/47737, l='ServerLevel[world]', x=111.96, y=72.00, z=366.71]
+[03:25:59] [Server thread/INFO]: Skupnum was slain by Spider
+[03:43:15] [Server thread/INFO]: Skupnum has reached the goal [Zombie Doctor]
+[03:44:08] [Server thread/INFO]: Csonti lost connection: Disconnected
+[03:44:08] [Server thread/INFO]: Csonti left the game
+[03:44:18] [Server thread/INFO]: Csonti[/127.0.0.1:56595] logged in with entity id 51452 at (172.84710439839554, 75.5625, 370.29699589305085)
+[03:44:18] [Server thread/INFO]: Csonti joined the game
+[03:46:07] [Server thread/INFO]: Csonti has made the advancement [What a Deal!]
+[03:47:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51970, l='ServerLevel[world]', x=119.08, y=72.00, z=360.66]
+[03:47:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51970, l='ServerLevel[world]', x=119.08, y=72.00, z=360.66]
+[03:48:29] [Server thread/INFO]: Skupnum has made the advancement [What a Deal!]
+[03:49:53] [Server thread/INFO]: Skupnum has made the advancement [Tactical Fishing]
+[03:55:04] [Server thread/INFO]: Csonti lost connection: Disconnected
+[03:55:04] [Server thread/INFO]: Csonti left the game
+[03:55:07] [Server thread/INFO]: Csonti[/127.0.0.1:56690] logged in with entity id 53058 at (205.67030649606392, 69.0, 357.10544817635537)
+[03:55:07] [Server thread/INFO]: Csonti joined the game
+[04:02:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/54173, l='ServerLevel[world]', x=112.34, y=72.00, z=361.01]
+[04:03:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/54255, l='ServerLevel[world]', x=111.83, y=72.00, z=366.86]
+[04:04:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/54547, l='ServerLevel[world]', x=112.23, y=72.00, z=361.67]
+[04:04:59] [Server thread/WARN]: Skupnum was kicked for floating too long!
+[04:04:59] [Server thread/INFO]: Skupnum lost connection: Flying is not enabled on this server
+[04:04:59] [Server thread/INFO]: Skupnum left the game
+[04:05:06] [Server thread/INFO]: Skupnum[/89.133.105.59:50792] logged in with entity id 54657 at (203.4072384401832, 69.8500000178814, 373.5063810110511)
+[04:05:06] [Server thread/INFO]: Skupnum joined the game
+[04:05:16] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[04:05:16] [Server thread/INFO]: Skupnum left the game
+[04:05:18] [Server thread/INFO]: Skupnum[/89.133.105.59:50794] logged in with entity id 54683 at (203.4072384401832, 69.8500000178814, 373.5063810110511)
+[04:05:18] [Server thread/INFO]: Skupnum joined the game
+[04:06:59] [Server thread/INFO]: Skupnum was shot by Csonti
+[04:15:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56387, l='ServerLevel[world]', x=116.16, y=72.00, z=359.94]
+[04:23:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/57380, l='ServerLevel[world]', x=111.83, y=72.00, z=367.25]
+[04:23:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/57380, l='ServerLevel[world]', x=111.83, y=72.00, z=367.25]
+[04:38:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59741, l='ServerLevel[world]', x=112.73, y=72.00, z=368.66]
+[04:38:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59741, l='ServerLevel[world]', x=112.73, y=72.00, z=368.66]
+[04:41:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=78, y=68, z=306} fx{x=77, y=69, z=306}
+[04:42:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60214, l='ServerLevel[world]', x=115.25, y=72.00, z=368.08]
+[04:42:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60214, l='ServerLevel[world]', x=115.25, y=72.00, z=368.08]
+[04:43:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60234, l='ServerLevel[world]', x=111.83, y=72.00, z=369.17]
+[04:43:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60234, l='ServerLevel[world]', x=111.83, y=72.00, z=369.17]
+[04:46:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60884, l='ServerLevel[world]', x=112.31, y=72.00, z=360.42]
+[04:47:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60944, l='ServerLevel[world]', x=116.33, y=72.00, z=366.88]
+[04:53:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61813, l='ServerLevel[world]', x=121.78, y=72.00, z=368.00]
+[04:53:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61813, l='ServerLevel[world]', x=121.78, y=72.00, z=368.00]
+[05:03:34] [Server thread/INFO]: Csonti lost connection: Disconnected
+[05:03:34] [Server thread/INFO]: Csonti left the game
+[05:03:36] [Server thread/INFO]: Csonti[/127.0.0.1:57082] logged in with entity id 63078 at (69.2859596231195, 70.0, 319.69999998807907)
+[05:03:36] [Server thread/INFO]: Csonti joined the game
+[05:03:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63159, l='ServerLevel[world]', x=113.81, y=72.00, z=365.18]
+[05:03:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63159, l='ServerLevel[world]', x=113.81, y=72.00, z=365.18]
+[05:05:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63431, l='ServerLevel[world]', x=121.99, y=72.00, z=359.83]
+[05:05:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63431, l='ServerLevel[world]', x=121.99, y=72.00, z=359.83]
+[05:08:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63749, l='ServerLevel[world]', x=120.67, y=71.94, z=360.28]
+[05:08:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63749, l='ServerLevel[world]', x=120.67, y=71.94, z=360.28]
+[05:10:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64025, l='ServerLevel[world]', x=113.24, y=72.00, z=360.76]
+[05:10:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64025, l='ServerLevel[world]', x=113.24, y=72.00, z=360.76]
+[05:13:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64299, l='ServerLevel[world]', x=120.11, y=71.94, z=364.85]
+[05:13:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/64299, l='ServerLevel[world]', x=120.11, y=71.94, z=364.85]
+[05:16:18] [Server thread/INFO]: Csonti lost connection: Disconnected
+[05:16:18] [Server thread/INFO]: Csonti left the game
+[05:16:20] [Server thread/INFO]: Csonti[/127.0.0.1:57144] logged in with entity id 64741 at (135.98303409287263, 71.9375, 371.2267534119001)
+[05:16:20] [Server thread/INFO]: Csonti joined the game
+[05:19:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=72, y=84, z=246} fx{x=73, y=83, z=246}
+[05:19:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=72, y=84, z=246} fx{x=72, y=84, z=248}
+[05:19:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=72, y=84, z=246} fx{x=72, y=84, z=248}
+[05:20:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=97, y=71, z=291} fx{x=96, y=71, z=291}
+[05:20:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=96, y=70, z=288} fx{x=97, y=70, z=282}
+[05:24:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66660, l='ServerLevel[world]', x=120.15, y=71.94, z=361.70]
+[05:24:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66660, l='ServerLevel[world]', x=120.15, y=71.94, z=361.70]
+[05:30:21] [Server thread/INFO]: Csonti lost connection: Disconnected
+[05:30:21] [Server thread/INFO]: Csonti left the game
+[05:30:32] [Server thread/INFO]: Skupnum lost connection: Disconnected
+[05:30:32] [Server thread/INFO]: Skupnum left the game
+[05:31:52] [Server thread/INFO]: Stopping the server
+[05:31:52] [Server thread/INFO]: Stopping server
+[05:31:52] [Server thread/INFO]: Saving players
+[05:31:52] [Server thread/INFO]: Saving worlds
+[05:31:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
